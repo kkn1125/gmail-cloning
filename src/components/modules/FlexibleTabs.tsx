@@ -4,8 +4,8 @@ import Tab from "@mui/material/Tab";
 import Typography from "@mui/material/Typography";
 import Box from "@mui/material/Box";
 import { Stack } from "@mui/material";
-import SelectableTable from "../organisms/SelectableTable";
 import InboxIcon from "@mui/icons-material/Inbox";
+import SelectableTable from "../organisms/SelectableTable";
 
 interface TabPanelProps {
   children?: React.ReactNode;
